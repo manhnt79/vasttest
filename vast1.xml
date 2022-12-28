@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    		<VAST version="3.0">
+    		<Ad>
+    		<InLine>
+    			<AdSystem>GJW Ads</AdSystem>
+    			<AdTitle>![CDATA[Silk Scarves Inspired by Traditional Chinese Culture]]</AdTitle>
+    			<Description><![CDATA[]]></Description>
+    			<Impression>
+    				<![CDATA[https://gw.ganjing.com/v1.0c/uba/send?en=impression&emb_id=94qJQVrpgm&ad_video_id=1faie3i74q83vXW2xXzmWfG0c19h1c&cid=836a5601-6ff7-4d93-bc0c-e9208f5ea774&cnt_id=1fgker10qc85eUoawic69pvJH16o1c]]>
+    			</Impression>
+    			<Creatives>
+    				<Creative>
+    					<Linear skipoffset="00:00:05">
+    						<Duration>00:01:06</Duration>
+    						<TrackingEvents>
+    	                    	<Tracking event="skip">
+    							    <![CDATA[https://gw.ganjing.com/v1.0c/uba/send?en=skip&emb_id=94qJQVrpgm&ad_video_id=1faie3i74q83vXW2xXzmWfG0c19h1c&cid=836a5601-6ff7-4d93-bc0c-e9208f5ea774&cnt_id=1fgker10qc85eUoawic69pvJH16o1c]]>
+    							</Tracking>
+                            	<Tracking event="progress" offset="00:00:30">
+    							    <![CDATA[https://gw.ganjing.com/v1.0c/uba/send?en=view&emb_id=94qJQVrpgm&ad_video_id=1faie3i74q83vXW2xXzmWfG0c19h1c&cid=836a5601-6ff7-4d93-bc0c-e9208f5ea774&cnt_id=1fgker10qc85eUoawic69pvJH16o1c&view_time=30]]>
+    							</Tracking>
+                            	<Tracking event="complete">
+    							    <![CDATA[https://gw.ganjing.com/v1.0c/uba/send?en=complete&emb_id=94qJQVrpgm&ad_video_id=1faie3i74q83vXW2xXzmWfG0c19h1c&cid=836a5601-6ff7-4d93-bc0c-e9208f5ea774&cnt_id=1fgker10qc85eUoawic69pvJH16o1c]]>
+    							</Tracking>
+    						</TrackingEvents>
+    						<VideoClicks>
+    							<ClickThrough>
+    								<![CDATA[]]>
+    							</ClickThrough>
+    						</VideoClicks>
+    						<MediaFiles>
+    							<MediaFile delivery="streaming" width="854" height="480" type="application/x-mpegURL" scalable="true" maintainAspectRatio="true"><![CDATA[https://media3-us-west.cloudokyo.cloud/video/v3/6f/80/ca/6f80cadf-a8b5-4f6a-9f92-734606435f45/master.m3u8]]></MediaFile>
+    						</MediaFiles>
+    					</Linear>
+    				</Creative>
+    			</Creatives>
+    		</InLine>
+    		</Ad>
+    		</VAST>
